@@ -8,6 +8,7 @@ public class SnackMachineWithStatePaternApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SnackMachineWithStatePaternApplication.class, args);
+		System.out.println("Helloworld");
 	}
 
 }
